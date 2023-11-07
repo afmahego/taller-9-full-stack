@@ -1,20 +1,27 @@
 
+.links{
+    text-align: center;
+    text-align: justify;
+    line-height: 50px;
+}
 .link{
-    text-align:center;
-    font-size:x-large;
+    
+    font-size:xx-large;
 }
 
 .marca{
     color:yellow;
-    text-align:center;
-    font-size:x-large;
+    
+    font-size:xx-large;
     word-spacing: 0.25em;
+    
 
 }
 
 .as{
     color:purple;
-    text-align:center;
-    font-size:x-large;
+    
+    font-size:xx-large;
     word-spacing: 0.25em;
+    
 }
