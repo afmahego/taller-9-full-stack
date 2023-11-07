@@ -1,0 +1,28 @@
+#texto{
+    text-align: justify;
+    font-size: x-large;
+    line-height: 50px;
+}
+
+.green{
+    color:green
+}
+
+.enemigo{
+    color: red;
+}
+
+.double {
+    text-decoration: overline underline;
+}
+
+.big{
+    font-size: 200%;
+}
+.blue{
+    color: blue;
+}
+.red {
+    color: red;
+    text-decoration: underline;
+}
