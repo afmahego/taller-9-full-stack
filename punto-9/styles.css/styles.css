@@ -1,28 +1,28 @@
-#table{
+table{
+    margin: auto;
     background-color: yellow;
     border-collapse: collapse ;
     width: 100%;
-    border-style: dotted;   
-    border-width: 1px;
-    border-color: black;
-    font-size: medium;
-    
+    border: 1px dotted black;
+    font-size: medium;    
 }
 .th{
     color: red;
-    border-style: dotted;
-    border-width: 1px;
-    
+    border: 1px dotted black;
 }
 
-.td{
-    border-style:dotted;
-    border-width: 1px;
-    border-color: black;
+td{
+    border: 1px dotted black;
+
 }
+  
 .p{
-    
-    border-bottom:dashed ;
+     border-bottom:dashed ;
     border-width: 1px;
-    border-color: red;
+     border-color: red;
 }
+
+
+
+
+
