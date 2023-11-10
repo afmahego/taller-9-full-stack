@@ -1,7 +1,27 @@
-.tr{
-    background-color:violet ;
-}
-.inicio{
-    background-color: blue;
+table{
+    
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    
+    background-color: rgb(223, 190, 223);
+    padding: 15px 15px;
+    color: white;
+    border-spacing: 15px 5px;
     
 }
+
+.inicio{
+    background-color: blue;
+    padding: 9px;
+    font-weight: lighter;
+
+    cursor: pointer;
+   
+    
+}
+.empty{
+    width: 200px;
+    
+}
+
