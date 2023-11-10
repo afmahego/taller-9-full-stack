@@ -5,7 +5,7 @@
 <p> Profesor : Cristian Patiño</p>
 
 <h2>Link de la página Web</h2>
-h<a href="https://afmahego.github.io/taller-9-full-stack/">Link de Figma</a>
+<a href="https://afmahego.github.io/taller-9-full-stack/">Link de la página Web</a>
 
 <h2>Punto 1: Link de Figma</h2>
 <a href="https://www.figma.com/file/6qX2uHkgchbf0BjRmYKcUP/Felipe-Mahecha-G%C3%B3mez?type=design&node-id=0%3A1&mode=design&t=sejKlPn19bRgC8On-1">Link de Figma</a>

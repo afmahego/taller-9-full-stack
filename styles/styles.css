@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  color: #000000b5;
+  color: #010851;
   font-family: system-ui, -apple-system;
 }
 
@@ -19,10 +19,12 @@ div {
 
 h1 {
   font-size: 58px;
+  text-shadow: 1px 1px 1px cornflowerblue; 
 }
 
 h2 {
   font-size: 32px;
+  text-shadow: 1px 1px 1px cornflowerblue; 
 }
 
 nav {
@@ -44,12 +46,13 @@ p {
   color: #000000ae;
   font-size: 17px;
   border-bottom: 1px solid;
+  text-shadow: 1px 1px 1px cornflowerblue; 
 }
 
 a {
   padding: 12px 25px;
   color: #ffffff;
-  background-color: #fd8f54e2;
+  background-color:cornflowerblue;
   border: none;
   border-radius: 5px;
   font-family: system-ui, -apple-system;
@@ -57,8 +60,9 @@ a {
   font-weight: bold;
   text-decoration: none;
   cursor: pointer;
+  text-shadow: 1px 1px 1px rgb(24, 25, 26); 
 }
 
 a:hover {
-  background-color: #e87537e2;
+  background-color:#010851;
 }
